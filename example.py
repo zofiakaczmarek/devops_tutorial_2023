@@ -17,23 +17,23 @@ class ArithmeticPair:
         """
         Compute :math:`x + y`.
         """
-        #return self.x + self.y
+        return self.x + self.y
 
     def difference(self):
         """
         Compute :math:`x - y`.
         """
-        #return self.y - self.x
+        return self.y - self.x
 
     def product(self):
         """
         Compute :math:`x * y`.
         """
-        #return self.x * self.y
+        return self.x * self.y
 
     def quotient(self):
         """
         Compute :math:`x / y`.
         """
-        #return self.x / self.y
+        return self.x / self.y
     
